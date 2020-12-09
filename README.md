@@ -1,6 +1,6 @@
 # Staff_Attendance
-Download zip fies and extract
-for Front end
+Download zip fies and extract /n
+for Front end /n
 then open terminal and run $ cd Staff_Attendance-master/frontEnd
 then $ npm i
 $ npx react-native run-android
